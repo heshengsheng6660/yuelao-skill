@@ -151,7 +151,7 @@ A：当前只开源 SKILL 本身，不开源 webapp（webapp 涉及 DeepSeek API
 ## 相关
 
 - 🌐 [月老 webapp 在线版](https://yuelao-webapp.pages.dev)（30 秒出报告，免装）
-- 📱 [小红书 @白巧克力](https://www.xiaohongshu.com/user/profile/)（项目原帖 + 后续更新）
+- 📱 [小红书 @白巧克力](https://xhslink.com/m/AH0nApVSuFb)（项目原帖 + 后续更新）
 - 🚀 下个 AI 项目正在路上 —— **不再是情感赛道**，蹲个关注
 
 —— 借月老一句话收尾：**「先行动，再趋向完美」** 🚀
